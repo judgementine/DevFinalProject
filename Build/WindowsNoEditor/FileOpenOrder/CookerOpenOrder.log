@@ -1,0 +1,541 @@
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 0
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 1
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 2
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 3
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 4
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 5
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 6
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 7
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 8
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 9
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 10
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 11
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 12
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 13
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 14
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 15
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 16
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 17
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 18
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 19
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 20
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 21
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 22
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 23
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 24
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 25
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 26
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 27
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 28
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 29
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 30
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/BP_CameraPlayer.uasset" 31
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 32
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Widgets/HUD/EnemyHealthBar.uasset" 33
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/435415__v-ktor__explosion10.uasset" 34
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Explode.uasset" 35
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Explode_Sprite_0.uasset" 36
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Explode_Sprite_1.uasset" 37
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Explode_Sprite_2.uasset" 38
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Explode_Sprite_3.uasset" 39
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Explode_Sprite_4.uasset" 40
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Depth-Charge_Flipbooks/Sea-Mine_Explode1.uasset" 41
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Shmup-Destructible.uasset" 42
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Shmup-Destructible_Sprite_0.uasset" 43
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Shmup-Destructible_Sprite_1.uasset" 44
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Shmup-Destructible_Sprite_2.uasset" 45
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Sea-Mine_Shmup-Destructible_Sprite_3.uasset" 46
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Depth-Charge/Depth-Charge_Flipbooks/Sea-Mine_Shmup-Destructible1.uasset" 47
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Blocks/Depth_Charge.uasset" 48
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Destructible_block.uasset" 49
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Destructible_block_Sprite_0.uasset" 50
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Block_Flipbooks/Destructible_block1.uasset" 51
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Blocks/Destructible_Block.uasset" 52
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Enemy_Bulletx5.uasset" 53
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Enemy_Bulletx5_Sprite_0.uasset" 54
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Enemy_Bulletx6.uasset" 55
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Bullets/EnemyBullet.uasset" 56
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/2641__ceacy__aille.uasset" 57
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Death.uasset" 58
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Death_Sprite_0.uasset" 59
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Death_Sprite_1.uasset" 60
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Death_Sprite_2.uasset" 61
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Flipbooks/Draft-Guy_Death1.uasset" 62
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Gov/Gov_Enemy.uasset" 63
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Gov/Gov_Enemy_Sprite_0.uasset" 64
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Gov/Gov_Enemy1.uasset" 65
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/BaseAi.uasset" 66
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Mouth_Beam.uasset" 67
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Mouth_Beam_Sprite_10.uasset" 68
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Mouth_Beam_Sprite_6.uasset" 69
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Mouth_Beam_Sprite_7.uasset" 70
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Mouth_Beam1.uasset" 71
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Bullets/BossBullet.uasset" 72
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Gov/Draft-Gov_Enemy.uasset" 73
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Gov/Draft-Gov_Enemy_Sprite_0.uasset" 74
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Gov/Draft-Gov_Enemy1.uasset" 75
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/BP_BaseAI.uasset" 76
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Monster_Laser.uasset" 77
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Monster_Laser_Sprite_0.uasset" 78
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Monster_Laser_Sprite_1.uasset" 79
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Monster_Laser_Sprite_2.uasset" 80
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Monster_Laser1.uasset" 81
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Bullets/EnemyBigLazer.uasset" 82
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Falling_rock.uasset" 83
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Falling_rock_Sprite_0.uasset" 84
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Block_Flipbooks/Falling_rock1.uasset" 85
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Bullets/FallingRock.uasset" 86
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/435418__v-ktor__shoot01.uasset" 87
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster.uasset" 88
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Sprite_0.uasset" 89
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster1.uasset" 90
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd-Slam.uasset" 91
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd-Slam_Sprite_0.uasset" 92
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd-Slam_Sprite_1.uasset" 93
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd-Slam_Sprite_2.uasset" 94
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd-Slam_Sprite_3.uasset" 95
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd-Slam_Sprite_4.uasset" 96
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_2nd-Slam1.uasset" 97
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd.uasset" 98
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd_Sprite_0.uasset" 99
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_2nd1.uasset" 100
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd_Hurt.uasset" 101
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd_Hurt_Sprite_0.uasset" 102
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd_Hurt_Sprite_1.uasset" 103
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_2nd_Hurt_Sprite_2.uasset" 104
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_2nd_Hurt1.uasset" 105
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd-Slam.uasset" 106
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd-Slam_Sprite_0.uasset" 107
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd-Slam_Sprite_1.uasset" 108
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd-Slam_Sprite_2.uasset" 109
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd-Slam_Sprite_3.uasset" 110
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd-Slam_Sprite_4.uasset" 111
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_3rd-Slam1.uasset" 112
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd.uasset" 113
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd_Sprite_0.uasset" 114
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_3rd1.uasset" 115
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd_Hurt.uasset" 116
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd_Hurt_Sprite_0.uasset" 117
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd_Hurt_Sprite_1.uasset" 118
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_3rd_Hurt_Sprite_2.uasset" 119
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_3rd_Hurt1.uasset" 120
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Death.uasset" 121
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Death_Sprite_0.uasset" 122
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_Death1.uasset" 123
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Hurt.uasset" 124
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Hurt_Sprite_0.uasset" 125
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Hurt_Sprite_1.uasset" 126
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_Hurt_Sprite_2.uasset" 127
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_Hurt1.uasset" 128
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_M_Beam.uasset" 129
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_M_Beam_Sprite_0.uasset" 130
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Draft-Monster_M_Beam_Sprite_1.uasset" 131
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Monster/Monster_Flipbooks/Draft-Monster_M_Beam1.uasset" 132
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Widgets/WinScreen.uasset" 133
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/BossAI_Base.uasset" 134
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode.uasset" 135
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode_Sprite_0.uasset" 136
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode_Sprite_1.uasset" 137
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode_Sprite_2.uasset" 138
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode_Sprite_3.uasset" 139
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode_Sprite_4.uasset" 140
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Explode_Sprite_5.uasset" 141
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Bomb_Explode1.uasset" 142
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5.uasset" 143
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5_Sprite_0.uasset" 144
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5_Sprite_1.uasset" 145
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5_Sprite_2.uasset" 146
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5_Sprite_3.uasset" 147
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5_Sprite_4.uasset" 148
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectilex5_Sprite_5.uasset" 149
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Projectilex6.uasset" 150
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Bullets/PlayerBullet.uasset" 151
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Laserx5.uasset" 152
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Laserx5_Sprite_0.uasset" 153
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Laserx5_Sprite_1.uasset" 154
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Laserx6.uasset" 155
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Bullets/PlayerLazer.uasset" 156
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/cameraFollower.uasset" 157
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/CheckPoints/Save_Info.uasset" 158
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/MoveDirections.uasset" 159
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/257780__xtrgamr__man-oof.uasset" 160
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/350901__cabled-mess__jump-c-06.uasset" 161
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_DoubleJump_Maybe.uasset" 162
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_DoubleJump_Maybe_Sprite_0.uasset" 163
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_DoubleJump_Maybe_Sprite_1.uasset" 164
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Flipbooks/Guy_DoubleJump_Maybe1.uasset" 165
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Idle.uasset" 166
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Idle_Sprite_0.uasset" 167
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Idle_Sprite_1.uasset" 168
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Flipbooks/Guy_Idle1.uasset" 169
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Run.uasset" 170
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Run_Sprite_0.uasset" 171
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Run_Sprite_1.uasset" 172
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Flipbooks/Guy_Run1.uasset" 173
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Slide.uasset" 174
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Slide_Sprite_0.uasset" 175
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Flipbooks/Guy_Slide1.uasset" 176
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Explode.uasset" 177
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Explode_Sprite_0.uasset" 178
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Explode_Sprite_1.uasset" 179
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Explode_Sprite_2.uasset" 180
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Explode_Sprite_3.uasset" 181
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Explode_Sprite_4.uasset" 182
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Flipbooks/Sub_Explode1.uasset" 183
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Submarine.uasset" 184
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Submarine_Sprite_0.uasset" 185
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Sub/Sub_Flipbooks/Submarine1.uasset" 186
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Widgets/HUD/UI_CharacterHUD.uasset" 187
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Widgets/PauseMenu.uasset" 188
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 189
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/BossAI_Shmup.uasset" 190
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/NewBehaviorTree.uasset" 191
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/MoveToBOssLevelTrigger.uasset" 192
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/ShmupMapTrigger.uasset" 193
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/348162__djfroyd__laser-one-shot-3.uasset" 194
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/435418__v-ktor__shoot01_Cue.uasset" 195
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/Music/Electro-punk-action-background-music.uasset" 196
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Audio/Music/Psychedelic-trip-electronic-music-beat-126-bpm.uasset" 197
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Blueprints/BaseAi.uasset" 198
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Blueprints/BaseSummon.uasset" 199
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Blueprints/Follower1.uasset" 200
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Blueprints/RockMinion.uasset" 201
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Destroyed_block.uasset" 202
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Destructible_hit.uasset" 203
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Destructible_hit_Sprite_0.uasset" 204
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Destructible_hit_Sprite_1.uasset" 205
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Block_Flipbooks/Destructible_hit1.uasset" 206
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb.uasset" 207
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Sprite_0.uasset" 208
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Sprite_1.uasset" 209
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Sprite_2.uasset" 210
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bomb_Sprite_3.uasset" 211
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Bomb1.uasset" 212
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Enemy_Bullet.uasset" 213
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Enemy_Bullet_Sprite_0.uasset" 214
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Enemy_Bullet1.uasset" 215
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Laser.uasset" 216
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Laser_Sprite_0.uasset" 217
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Laser_Sprite_1.uasset" 218
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Laser1.uasset" 219
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile.uasset" 220
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Sprite_0.uasset" 221
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Sprite_1.uasset" 222
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Sprite_2.uasset" 223
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Sprite_3.uasset" 224
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Sprite_4.uasset" 225
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Sprite_5.uasset" 226
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Projectile1.uasset" 227
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Hit.uasset" 228
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Hit_Sprite_0.uasset" 229
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Projectile_Hit_Sprite_1.uasset" 230
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Projectile_Hit1.uasset" 231
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Shotgun_Bullet.uasset" 232
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Shotgun_Bullet_Sprite_0.uasset" 233
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Shotgun_Bullet_Sprite_1.uasset" 234
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Shotgun_Bullet1.uasset" 235
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Shotgun_Hit.uasset" 236
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Shotgun_Hit_Sprite_0.uasset" 237
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Shotgun_Hit_Sprite_1.uasset" 238
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Bullets/Bullet_Flipbooks/Shotgun_Hit1.uasset" 239
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy.uasset" 240
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Sprite.uasset" 241
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Flipbooks/Draft-Guy_Flipbook.uasset" 242
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Hurt.uasset" 243
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Hurt_Sprite_0.uasset" 244
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Hurt_Sprite_1.uasset" 245
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Guy/Draft-Guy_Flipbooks/Draft-Guy_Hurt1.uasset" 246
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-UD.uasset" 247
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-UD_Sprite_0.uasset" 248
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-UD1.uasset" 249
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Shark/Shark_Shmup-Enemy_Moves-LR.uasset" 250
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Shark/Shark_Shmup-Enemy_Moves-LR_Sprite_0.uasset" 251
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Shark/Shark_Shmup-Enemy_Moves-LR1.uasset" 252
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub.uasset" 253
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Sprite_0.uasset" 254
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Sub_Flipbooks/Draft-Sub1.uasset" 255
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Explode.uasset" 256
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Explode_Sprite_0.uasset" 257
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Explode_Sprite_1.uasset" 258
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Explode_Sprite_2.uasset" 259
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Explode_Sprite_3.uasset" 260
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Draft-Sub_Explode_Sprite_4.uasset" 261
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Sub/Sub_Flipbooks/Draft-Sub_Explode1.uasset" 262
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Crouch.uasset" 263
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Crouch_Sprite_0.uasset" 264
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Flipbooks/Guy_Crouch1.uasset" 265
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Jump.uasset" 266
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Jump_Sprite_0.uasset" 267
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Jump_Sprite_1.uasset" 268
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Jump_Sprite_2.uasset" 269
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Guy/Guy_Flipbooks/Guy_Jump1.uasset" 270
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Widgets/GameOverScreen.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 272
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 273
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 274
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 275
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 276
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 277
+"../../../Engine/Content/BasicShapes/Cone.uasset" 278
+"../../../Engine/Content/BasicShapes/Cube.uasset" 279
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 280
+"../../../Engine/Content/BasicShapes/Plane.uasset" 281
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 282
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 283
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 284
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 285
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 286
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 287
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 291
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 292
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 293
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 294
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 295
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 297
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 298
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 299
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 300
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 301
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 302
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 303
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 304
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 305
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 306
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 307
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 308
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 309
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 310
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 311
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 312
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 313
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 314
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 315
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 316
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 317
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 318
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 319
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 320
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 321
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 322
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 323
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 324
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 325
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 326
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 327
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 328
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 329
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 330
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 331
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 332
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 333
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 334
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 335
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 336
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 337
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 338
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 339
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 340
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 341
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 342
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 343
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 344
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 345
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 346
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 347
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 348
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 349
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 350
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 351
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 352
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 353
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 354
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 355
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 356
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 357
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 358
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 359
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 360
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 361
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 362
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 363
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 364
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 365
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 366
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 367
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 368
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 369
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 370
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 371
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 372
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 373
+"../../../Engine/Content/EngineResources/Black.uasset" 374
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 375
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 376
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 377
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 378
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 379
+"../../../Engine/Content/EngineSounds/Master.uasset" 380
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 382
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 383
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 384
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 385
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 386
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 387
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 388
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 389
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 390
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 392
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 395
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 396
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 398
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 400
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 402
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 403
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 404
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 405
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 406
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 407
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 408
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 409
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 410
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 411
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 412
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 413
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 414
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 415
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 416
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 417
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 418
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 419
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 420
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 421
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 422
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 423
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 424
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 425
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 426
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 427
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 428
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 429
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 430
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 431
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/CheckPoints/BP_Checkpoint.uasset" 432
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 433
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Falling_block.uasset" 434
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Falling_block_Sprite_0.uasset" 435
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Blocks/Block_Flipbooks/Falling_block1.uasset" 436
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Blocks/FallingBlock.uasset" 437
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE__1_.uasset" 438
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE__1__Sprite.uasset" 439
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE__2_.uasset" 440
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE__2__Sprite.uasset" 441
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE__3_.uasset" 442
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE__3__Sprite.uasset" 443
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE.uasset" 444
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_AoE_Sprite.uasset" 445
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Flipbooks/Octopus_Shmup-Enemy_AoE1.uasset" 446
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_Moves-UD.uasset" 447
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_Moves-UD_Sprite_0.uasset" 448
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_Moves-UD_Sprite_11.uasset" 449
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_Moves-UD_Sprite_2.uasset" 450
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Shmup-Enemy_Moves-UD_Sprite_5.uasset" 451
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Octopus/Octopus_Flipbooks/Octopus_Shmup-Enemy_Moves-UD1.uasset" 452
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/OctopusEnemy.uasset" 453
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-UD.uasset" 454
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-UD_Sprite_0.uasset" 455
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-UD_Sprite_1.uasset" 456
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Flipbooks/Shark_Enemy_Moves-UD1.uasset" 457
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/SharkEnemy.uasset" 458
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-LR.uasset" 459
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-LR_Sprite_0.uasset" 460
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Enemy_Moves-LR_Sprite_1.uasset" 461
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Final-Char-Enem-Boss_Sprites/Shark/Shark_Flipbooks/Shark_Enemy_Moves-LR1.uasset" 462
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/SharkEnemyLeftRight.uasset" 463
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Bomb_power-up.uasset" 464
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Bomb_power-up_Sprite_0.uasset" 465
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Bomb_power-up_Sprite_1.uasset" 466
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Power_Flipbooks/Bomb_power-up1.uasset" 467
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/PickUps/BombPowerUp.uasset" 468
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Damage_power-up.uasset" 469
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Damage_power-up_Sprite_0.uasset" 470
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Damage_power-up_Sprite_1.uasset" 471
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Damage_power-up_Sprite_2.uasset" 472
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Damage_power-up_Sprite_3.uasset" 473
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Power_Flipbooks/Damage_power-up1.uasset" 474
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/PickUps/DamagePickUp.uasset" 475
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Jump_power-up.uasset" 476
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Jump_power-up_Sprite_0.uasset" 477
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Jump_power-up_Sprite_1.uasset" 478
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Jump_power-up_Sprite_2.uasset" 479
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Jump_power-up_Sprite_3.uasset" 480
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Power_Flipbooks/Jump_power-up1.uasset" 481
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/PickUps/JumpPickUp.uasset" 482
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Laser_power-up.uasset" 483
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Laser_power-up_Sprite_0.uasset" 484
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Laser_power-up_Sprite_1.uasset" 485
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Power_Flipbooks/Laser_power-up1.uasset" 486
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/PickUps/LazerBeamPowerUp.uasset" 487
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Shotgun_power-up.uasset" 488
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Shotgun_power-up_Sprite_0.uasset" 489
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Shotgun_power-up_Sprite_1.uasset" 490
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Power_Flipbooks/Shotgun_power-up1.uasset" 491
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/PickUps/ShotgunPickUp.uasset" 492
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Speed_power-up.uasset" 493
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Speed_power-up_Sprite_0.uasset" 494
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Speed_power-up_Sprite_1.uasset" 495
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Speed_power-up_Sprite_2.uasset" 496
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Speed_power-up_Sprite_3.uasset" 497
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Bullets-Powerups/Power-ups/Power_Flipbooks/Speed_power-up1.uasset" 498
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/PickUps/SpeedPickUp.uasset" 499
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/BossFightTrigger.uasset" 500
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/FallingBlockTrigger.uasset" 501
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/TriggerMoveToShmup.uasset" 502
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/TriggerMoveToPlatformer.uasset" 503
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 504
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 505
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 506
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 507
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Textures/2DBackground.uasset" 508
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 509
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 510
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScroller/Sprites/Ledge.uasset" 511
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 512
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/BossAI_BossLevel.uasset" 513
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/AISpawner.uasset" 514
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/ShmupWall.uasset" 515
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Boss_T.uasset" 516
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Boss_TileSet.uasset" 517
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Boss_TileMap.uasset" 518
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/Boss.umap" 519
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Blocks/Killbox.uasset" 520
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/LevelChangeToShmup.uasset" 521
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/Platformer_BuiltData.uasset" 522
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Door/Draft-Door.uasset" 523
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Door/Draft-Door_Sprite_0.uasset" 524
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Door/Draft-Door_Sprite_1.uasset" 525
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Draft-Char-Enem-Boss_Sprites/Door/Draft-Door1.uasset" 526
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Shmup_T.uasset" 527
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Shmup_Tileset.uasset" 528
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft_Tileset_T.uasset" 529
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft_Tileset.uasset" 530
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Platformer_TileMap.uasset" 531
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/Platformer.umap" 532
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/EnemyAI/Boss_ShmupLevel.uasset" 533
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Blueprints/Triggers/LevelChangeToBoss.uasset" 534
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Dev-Final_Assets/Tilesets/Draft-Shmup_TileMap.uasset" 535
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/Shmup.umap" 536
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/Widgets/TitleMenu.uasset" 537
+"../../../../../../Users/alexa/Documents/Unreal Projects/DevFinalProject/Content/2DSideScrollerBP/Maps/Title.umap" 538
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 539
+"../../../Engine/Content/Maps/Entry.umap" 540
